@@ -1,3 +1,5 @@
+### English | [中文](https://github.com/RockTraveler/SynologyLoginPageStyle/blob/main/README_ZH.md)
+
 # SynologyLoginPageStyle
 
 ## Introduction

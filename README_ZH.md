@@ -1,4 +1,4 @@
-###### [English] (https://github.com/RockTraveler/SynologyLoginPageStyle/blob/main/README.md) |中文
+### [English] (https://github.com/RockTraveler/SynologyLoginPageStyle/blob/main/README.md) |中文
 
 # SynologyLoginPageStyle
 
