@@ -12,7 +12,7 @@ This css script updated base on DSM 7.0 that will be not take effect before DSM 
 ## How to Use
 
 1. Download the css file.
-2. Login into your synology device via SSH protocol, that requires your root privilage to update your css file.
+2. Login into your synology device via SSH protocol, that requires your root privilege to update your css file.
 3. and put the css file under the directory: /usr/syno/synoman/webman/login/css, please also backup your css file before overwrite.
 4. Update file name login.css.gz to another such as login.css.gz_bak.
 5. try to reload your browser and enjoy it.
