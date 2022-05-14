@@ -2283,38 +2283,38 @@ input:-webkit-autofill {
     transition: background-color 5000s ease-in-out 0s;
 }
 @keyframes myfirst {
-    0% {
-        opacity: 0.7;
-    }
-    25% {
-        opacity: 0.65;
-    }
-    50% {
-        opacity: 0.45;
-    }
-    75% {
-        opacity: 0.35;
-    }
-    100% {
-        opacity: 0.05;
-    }
+  0% {
+    opacity: 0.6;
+  }
+  25% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 0.4;
+  }
+  75% {
+    opacity: 0.25;
+  }
+  100% {
+    opacity: 0.05;
+  }
 }
 @-webkit-keyframes myfirst {
-    0% {
-        opacity: 0.7;
-    }
-    25% {
-        opacity: 0.65;
-    }
-    50% {
-        opacity: 0.45;
-    }
-    75% {
-        opacity: 0.35;
-    }
-    100% {
-        opacity: 0.05;
-    }
+  0% {
+    opacity: 0.6;
+  }
+  25% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 0.4;
+  }
+  75% {
+    opacity: 0.25;
+  }
+  100% {
+    opacity: 0.05;
+  }
 }
 .login-textfield {
     animation: myfirst 5s linear;
