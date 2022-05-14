@@ -8,8 +8,7 @@
 此项目是修改了群晖NAS的登录界面，这个CSS能让登录面板看起来更顺眼一点
 
 ### Note
-This css script updated base on DSM 7.0 that will be not take effect before DSM 7.0
-CSS脚本基于DSM7.0而修改，之前的版本应该是能用。
+CSS脚本基于DSM7.0而修改，之前的版本应该是不能用。
 ## How to Use
 
 1. 下载CSS文件
