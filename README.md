@@ -14,3 +14,8 @@ This css script updated base on DSM 7.0 that will be not take effect before DSM 
     
 3. Update file name login.css.gz to another such as login.css.gz_bak.
 4. try to reload your browser.
+
+
+## Example:
+
+![image](https://github.com/RockTraveler/SynologyLoginPageStyle/blob/main/example/before.png)
