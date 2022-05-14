@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project create for sysnology device login page, the css file has ability to update the login panel to be more beautiful.
+This project create for sysnology device login page updating, the css file has ability to update the login panel to be more beautiful.
 
 ### Note
 This css script updated base on DSM 7.0 that will be not take effect before DSM 7.0
