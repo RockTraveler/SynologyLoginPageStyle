@@ -1,3 +1,5 @@
+###### [English] (https://github.com/RockTraveler/SynologyLoginPageStyle/blob/main/README.md) |中文
+
 # SynologyLoginPageStyle
 
 ## 介绍
