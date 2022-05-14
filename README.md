@@ -13,9 +13,14 @@ This css script updated base on DSM 7.0 that will be not take effect before DSM 
 2. Login into your sysology device and put the css file under thedirectory: /usr/syno/synoman/webman/login/css, please also backup your css file before overwrite.
     
 3. Update file name login.css.gz to another such as login.css.gz_bak.
-4. try to reload your browser.
+4. try to reload your browser and enjoy it.
 
 
 ## Example:
 
+### Before update
 ![image](https://github.com/RockTraveler/SynologyLoginPageStyle/blob/main/example/before.png)
+
+### After update
+
+![image](https://github.com/RockTraveler/SynologyLoginPageStyle/blob/main/example/after.png)
