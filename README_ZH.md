@@ -38,4 +38,4 @@ CSS脚本基于DSM7.0而修改，之前的版本应该是不能用。
 
 各位土豪或者大佬，想请喝杯咖啡的话，请扫描下面的二维码：
 
-![image](https://github.com/RockTraveler/SynologyLoginPageStyle/blob/main/example/alipay.jpg)
+![image](https://github.com/RockTraveler/SynologyLoginPageStyle/blob/main/example/alipay.png)
